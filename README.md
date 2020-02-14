@@ -1,8 +1,3 @@
-# IdeaEncode
-
-Idea Encode website
-
-
 #IdeaFramework - configuration
 To use Idea routing globally you must redirect all calls to your index.php with your web server
 consider that you need to set the `IDEA_WED_SERVER` on your config file.
